@@ -109,15 +109,7 @@ input, select, textarea {
 		font-weight: 300;
 	}
 
-	h1 {
-		font-weight: 400;
-		color: #FFFFFF;
-		line-height: 1.25em;
-	}
-	
-	}
-
-	 h2, h3, h4, h5, h6 {
+	h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
 		color: #483949;
 		line-height: 1.25em;
@@ -2188,7 +2180,7 @@ input, select, textarea {
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
-		color: #fff;
+		color: #fffff;
 		text-align: center;
 		padding: 7.5em 0 2em 0;
 		cursor: default;
@@ -2219,7 +2211,7 @@ input, select, textarea {
 			}
 
 		#header h1 {
-			color: #fff;
+			color: #fffff;
 			font-size: 3em;
 			line-height: 1em;
 		}

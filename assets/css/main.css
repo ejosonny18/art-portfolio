@@ -2276,7 +2276,7 @@ input, select, textarea {
 		}
 
 	body.homepage.is-preload #header:after {
-		opacity: 1;
+		opacity: 0;
 	}
 
 /* Nav */
